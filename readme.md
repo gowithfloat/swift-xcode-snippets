@@ -1,4 +1,4 @@
-# Swift Xcode Snippets
+# Swift Xcode Snippets [![Build Status](https://travis-ci.org/gowithfloat/swift-xcode-snippets.svg)](https://travis-ci.org/gowithfloat/swift-xcode-snippets)
 
 A collection of useful Xcode snippets for working with Swift.
 
